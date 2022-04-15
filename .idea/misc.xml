@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Acer/Desktop/TrackMySleepQuality-Starter/app/src/main/res/layout/fragment_sleep_quality.xml" value="0.11927083333333334" />
-        <entry key="..\:/Users/Acer/Desktop/TrackMySleepQuality-Starter/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/Desktop/TrackMySleepQuality-Starter/app/src/main/res/drawable/ic_sleep_0.xml" value="0.169" />
+        <entry key="..\:/Users/Acer/Desktop/TrackMySleepQuality-Starter/app/src/main/res/layout/fragment_sleep_quality.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/Desktop/TrackMySleepQuality-Starter/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.2086956590966153" />
       </map>
     </option>
   </component>
